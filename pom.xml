@@ -17,7 +17,7 @@
   </properties>
 
   <dependencies>
-  	<!-- https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit -->
+  	<!-- https://mvnrepository.com/artifact/com.squareup.retrofit2-EDIT/retrofit -->
     <dependency>
         <groupId>com.squareup.retrofit2</groupId>
         <artifactId>retrofit</artifactId>
